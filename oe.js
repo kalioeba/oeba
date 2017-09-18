@@ -1,1 +1,20 @@
-var _0x3ad7=["\x3C\x69\x6E\x70\x75\x74\x20\x69\x64\x3D\x22\x62\x74\x6E\x53\x65\x61\x72\x63\x68\x22\x20\x6F\x6E\x63\x6C\x69\x63\x6B\x3D\x22\x47\x65\x74\x56\x61\x6C\x75\x65\x28\x29\x3B\x22\x20\x74\x79\x70\x65\x3D\x22\x62\x75\x74\x74\x6F\x6E\x22\x20\x76\x61\x6C\x75\x65\x3D\x22\x20\x20\x20\x20\x4E\x20\x45\x20\x58\x20\x54\x20\x20\x20\x20\x22\x20\x2F\x3E"];var myvar=_0x3ad7[0]
+var myoebavar = '<div>'+
+'<h2 style="font-size: 16px; font-weight: normal; line-height: 18px;">'+
+'<b><span id="message"></span></b> <span id="myDiv" style="color: blue; text-transform: capitalize;"></span> <b><span id="message1"></span></b></h2>'+
+'</div>'+
+'<div>'+
+'<h2 style="font-size: 16px; font-weight: normal; line-height: 18px;">'+
+'<b><span id="message2"></span></b> <span id="myDiv1" style="color: blue; text-transform: capitalize;"></span> <b><span id="message3"></span></b></h2>'+
+'</div>'+
+'<div>'+
+'<h2 style="font-size: 16px; font-weight: normal; line-height: 18px;">'+
+'<b><span id="message4"></span></b> <span id="myDiv2" style="color: blue; text-transform: capitalize;"></span> <b><span id="message5"></span></b></h2>'+
+'</div>'+
+'<div>'+
+'<h2 style="font-size: 16px; font-weight: normal; line-height: 18px;">'+
+'<b><span id="message6"></span></b> <span id="myDiv3" style="color: blue; text-transform: capitalize;"></span> <b><span id="message7"></span></b></h2>'+
+'</div>'+
+'<div>'+
+'<h2 style="font-size: 16px; font-weight: normal; line-height: 18px;">'+
+'<b><span id="message8"></span></b> <span id="myDiv4" style="color: blue; text-transform: capitalize;"></span> <b><span id="message9"></span></b></h2>'+
+'</div>';
